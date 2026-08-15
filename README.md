@@ -16,6 +16,7 @@ Each skill is an independent folder with a public `SKILL.md`. Some workflows can
 | `rankizz-map-competitive-landscape` | Map the domains winning a search market | Optional |
 | `rankizz-analyze-competitor` | Analyze one competitor's organic footprint | Optional |
 | `rankizz-prospect-links` | Find and qualify relevant link prospects | Optional |
+| `rankizz-build-seo-roadmap` | Build an evidence-based 1–30 day SEO roadmap | Yes |
 
 ## Install
 

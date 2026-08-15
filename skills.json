@@ -1,6 +1,6 @@
 {
   "name": "Rankizz Agent Skills",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "homepage": "https://www.rankizz.com/docs/skills",
   "mcpUrl": "https://www.rankizz.com/mcp",
   "skills": [
@@ -59,6 +59,13 @@
       "description": "Find relevant sites with a credible reason to link to an existing asset.",
       "mode": "hybrid",
       "rankizzRequired": false
+    },
+    {
+      "name": "rankizz-build-seo-roadmap",
+      "title": "SEO Roadmap",
+      "description": "Build an authority- and traffic-aware SEO plan for the next 1–30 days.",
+      "mode": "cloud",
+      "rankizzRequired": true
     }
   ]
 }
