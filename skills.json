@@ -1,6 +1,6 @@
 {
   "name": "Rankizz Agent Skills",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "homepage": "https://www.rankizz.com/docs/skills",
   "mcpUrl": "https://www.rankizz.com/mcp",
   "skills": [
@@ -129,6 +129,20 @@
       "description": "Research current LinkedIn posts and draft a useful product-aware post.",
       "creditUsage": "required",
       "rankizzRequired": true
+    },
+    {
+      "name": "rankizz-find-outreach-emails",
+      "title": "Outreach Email Finder",
+      "description": "Find public, role-relevant outreach emails and record each source.",
+      "creditUsage": "none",
+      "rankizzRequired": false
+    },
+    {
+      "name": "rankizz-write-backlink-outreach-email",
+      "title": "Backlink Outreach Email",
+      "description": "Write credible backlink outreach for editorial, guest, or partner pitches.",
+      "creditUsage": "optional",
+      "rankizzRequired": false
     }
   ]
 }

@@ -26,6 +26,8 @@ Each skill is an independent folder with a public `SKILL.md`. Some workflows can
 | `rankizz-write-reddit-post` | Write a useful, subreddit-native post | Optional |
 | `rankizz-find-reddit-reply-opportunities` | Research threads and save transparent reply drafts | Required |
 | `rankizz-write-linkedin-post` | Research current posts and draft a knowledge-first LinkedIn post | Required |
+| `rankizz-find-outreach-emails` | Find public, role-relevant outreach contacts with source evidence | None |
+| `rankizz-write-backlink-outreach-email` | Write a credible page-specific backlink pitch | Optional |
 
 ## Install
 
