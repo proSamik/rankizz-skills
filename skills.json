@@ -1,6 +1,6 @@
 {
   "name": "Rankizz Agent Skills",
-  "version": "0.3.1",
+  "version": "0.4.0",
   "homepage": "https://www.rankizz.com/docs/skills",
   "mcpUrl": "https://www.rankizz.com/mcp",
   "skills": [
@@ -108,6 +108,27 @@
       "description": "Research a competitor's product and current pricing for an honest buyer-focused page.",
       "creditUsage": "optional",
       "rankizzRequired": false
+    },
+    {
+      "name": "rankizz-write-reddit-post",
+      "title": "Reddit Post Writing",
+      "description": "Write a useful subreddit-native post with one transparent app mention.",
+      "creditUsage": "optional",
+      "rankizzRequired": false
+    },
+    {
+      "name": "rankizz-find-reddit-reply-opportunities",
+      "title": "Reddit Reply Research",
+      "description": "Find relevant Reddit threads and save transparent reply drafts for later.",
+      "creditUsage": "required",
+      "rankizzRequired": true
+    },
+    {
+      "name": "rankizz-write-linkedin-post",
+      "title": "LinkedIn Post Research",
+      "description": "Research current LinkedIn posts and draft a useful product-aware post.",
+      "creditUsage": "required",
+      "rankizzRequired": true
     }
   ]
 }

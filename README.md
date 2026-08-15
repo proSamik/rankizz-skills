@@ -1,6 +1,6 @@
 # Rankizz Agent Skills
 
-Portable SEO workflows for Claude, Codex, ChatGPT, and other agents that support the Agent Skills format.
+Portable SEO and audience-research workflows for Claude, Codex, ChatGPT, and other agents that support the Agent Skills format.
 
 Each skill is an independent folder with a public `SKILL.md`. Some workflows can run entirely with local files and network tools. Others can optionally use Rankizz MCP or the Rankizz REST API for live search, backlink, analytics, and audit data.
 
@@ -23,6 +23,9 @@ Each skill is an independent folder with a public `SKILL.md`. Some workflows can
 | `rankizz-write-alternatives-page` | Write a fair product alternatives page | Optional |
 | `rankizz-write-comparison-page` | Compare two products using the same evidence standard | Optional |
 | `rankizz-write-competitor-review-pricing` | Explain a competitor's product, fit, and current pricing | Optional |
+| `rankizz-write-reddit-post` | Write a useful, subreddit-native post | Optional |
+| `rankizz-find-reddit-reply-opportunities` | Research threads and save transparent reply drafts | Required |
+| `rankizz-write-linkedin-post` | Research current posts and draft a knowledge-first LinkedIn post | Required |
 
 ## Install
 

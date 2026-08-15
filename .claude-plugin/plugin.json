@@ -1,7 +1,7 @@
 {
   "name": "rankizz-seo",
-  "description": "Evidence-based SEO research, audit, strategy, and writing workflows from Rankizz",
-  "version": "0.3.1",
+  "description": "Evidence-based SEO, audience research, and writing workflows from Rankizz",
+  "version": "0.4.0",
   "author": {
     "name": "Rankizz",
     "url": "https://www.rankizz.com"
@@ -9,5 +9,5 @@
   "homepage": "https://www.rankizz.com/docs/skills",
   "repository": "https://github.com/proSamik/rankizz-skills",
   "license": "MIT",
-  "keywords": ["seo", "geo", "aeo", "keywords", "site-audit", "backlinks", "content-writing"]
+  "keywords": ["seo", "geo", "aeo", "keywords", "site-audit", "backlinks", "content-writing", "reddit", "linkedin", "social-content"]
 }

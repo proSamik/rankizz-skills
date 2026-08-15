@@ -9,13 +9,13 @@
     {
       "name": "rankizz-seo",
       "source": "./",
-      "description": "SEO research, audits, strategy, competitive analysis, and evidence-based writing skills",
-      "version": "0.3.1",
+      "description": "SEO, audience research, social content, and evidence-based writing skills",
+      "version": "0.4.0",
       "homepage": "https://www.rankizz.com/docs/skills",
       "repository": "https://github.com/proSamik/rankizz-skills",
       "license": "MIT",
       "category": "productivity",
-      "tags": ["seo", "marketing", "research"]
+      "tags": ["seo", "marketing", "research", "reddit", "linkedin"]
     }
   ]
 }
