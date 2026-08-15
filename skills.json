@@ -1,0 +1,64 @@
+{
+  "name": "Rankizz Agent Skills",
+  "version": "0.1.0",
+  "homepage": "https://www.rankizz.com/docs/skills",
+  "mcpUrl": "https://www.rankizz.com/mcp",
+  "skills": [
+    {
+      "name": "rankizz-setup-seo-project",
+      "title": "SEO Project Setup",
+      "description": "Create reusable project context for a website, market, or client.",
+      "mode": "local",
+      "rankizzRequired": false
+    },
+    {
+      "name": "rankizz-audit-site-cloud",
+      "title": "Cloud Site Audit",
+      "description": "Run a hosted, robots-aware Rankizz crawl and produce a prioritized report.",
+      "mode": "cloud",
+      "rankizzRequired": true
+    },
+    {
+      "name": "rankizz-audit-site-local",
+      "title": "Local Site Audit",
+      "description": "Audit a public website with local agent and system resources.",
+      "mode": "local",
+      "rankizzRequired": false
+    },
+    {
+      "name": "rankizz-research-keywords",
+      "title": "Keyword Research",
+      "description": "Find and prioritize keyword opportunities with evidence and intent.",
+      "mode": "hybrid",
+      "rankizzRequired": false
+    },
+    {
+      "name": "rankizz-cluster-keywords",
+      "title": "Keyword Clustering",
+      "description": "Group keywords by intent and map them to existing or proposed pages.",
+      "mode": "hybrid",
+      "rankizzRequired": false
+    },
+    {
+      "name": "rankizz-map-competitive-landscape",
+      "title": "Competitive Landscape",
+      "description": "Identify organic search competitors, winning formats, and market gaps.",
+      "mode": "hybrid",
+      "rankizzRequired": false
+    },
+    {
+      "name": "rankizz-analyze-competitor",
+      "title": "Competitor Analysis",
+      "description": "Analyze one competitor's rankings, pages, authority, and strategic gaps.",
+      "mode": "hybrid",
+      "rankizzRequired": false
+    },
+    {
+      "name": "rankizz-prospect-links",
+      "title": "Link Prospecting",
+      "description": "Find relevant sites with a credible reason to link to an existing asset.",
+      "mode": "hybrid",
+      "rankizzRequired": false
+    }
+  ]
+}

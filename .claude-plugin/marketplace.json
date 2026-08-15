@@ -1,0 +1,21 @@
+{
+  "name": "rankizz-skills",
+  "owner": {
+    "name": "Rankizz",
+    "url": "https://www.rankizz.com"
+  },
+  "description": "Official Rankizz agent skills",
+  "plugins": [
+    {
+      "name": "rankizz-seo",
+      "source": "./",
+      "description": "SEO research, site audit, competitive analysis, and link prospecting skills",
+      "version": "0.1.0",
+      "homepage": "https://www.rankizz.com/docs/skills",
+      "repository": "https://github.com/proSamik/rankizz-skills",
+      "license": "MIT",
+      "category": "productivity",
+      "tags": ["seo", "marketing", "research"]
+    }
+  ]
+}

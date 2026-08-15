@@ -1,0 +1,13 @@
+{
+  "name": "rankizz-seo",
+  "description": "Evidence-based SEO research and audit workflows from Rankizz",
+  "version": "0.1.0",
+  "author": {
+    "name": "Rankizz",
+    "url": "https://www.rankizz.com"
+  },
+  "homepage": "https://www.rankizz.com/docs/skills",
+  "repository": "https://github.com/proSamik/rankizz-skills",
+  "license": "MIT",
+  "keywords": ["seo", "geo", "aeo", "keywords", "site-audit", "backlinks"]
+}
