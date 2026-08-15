@@ -6,18 +6,18 @@ Each skill is an independent folder with a public `SKILL.md`. Some workflows can
 
 ## Skills
 
-| Skill | Purpose | Rankizz required |
+| Skill | Purpose | Credit usage |
 | --- | --- | --- |
-| `rankizz-setup-seo-project` | Create reusable SEO project context | No |
-| `rankizz-audit-site-cloud` | Run a hosted Rankizz site audit | Yes |
-| `rankizz-audit-site-local` | Audit with the agent's local resources | No |
-| `rankizz-audit-on-page-seo` | Check the complete on-page SEO implementation | No |
+| `rankizz-setup-seo-project` | Create reusable SEO project context | Optional |
+| `rankizz-audit-site-cloud` | Run a hosted Rankizz site audit | Required |
+| `rankizz-audit-site-local` | Audit with the agent's local resources | None |
+| `rankizz-audit-on-page-seo` | Check the complete on-page SEO implementation | Optional |
 | `rankizz-research-keywords` | Find and prioritize keyword opportunities | Optional |
 | `rankizz-cluster-keywords` | Turn keyword lists into a page map | Optional |
 | `rankizz-map-competitive-landscape` | Map the domains winning a search market | Optional |
 | `rankizz-analyze-competitor` | Analyze one competitor's organic footprint | Optional |
 | `rankizz-prospect-links` | Find and qualify relevant link prospects | Optional |
-| `rankizz-build-seo-roadmap` | Build an evidence-based 1–30 day SEO roadmap | Yes |
+| `rankizz-build-seo-roadmap` | Build an evidence-based 1–30 day SEO roadmap | Required |
 | `rankizz-write-human-blog-post` | Research and write a useful post in a natural voice | Optional |
 | `rankizz-write-tool-listicle` | Create an evidence-backed best-tools list | Optional |
 | `rankizz-write-alternatives-page` | Write a fair product alternatives page | Optional |
@@ -36,13 +36,13 @@ For Claude.ai or another upload-based client, upload the ZIP for the selected sk
 
 ## Rankizz access
 
-Cloud workflows use the current remote Streamable HTTP MCP endpoint:
+Remote Rankizz workflows use the current Streamable HTTP MCP endpoint:
 
 ```text
 https://www.rankizz.com/mcp
 ```
 
-Interactive clients should use OAuth. Headless clients can create a personal key from [Rankizz API access](https://www.rankizz.com/api-access). Hosted MCP and API calls require a balance of at least 10 credits.
+Interactive clients should use OAuth. Headless clients can create a personal key from [Rankizz API access](https://www.rankizz.com/api-access). MCP and API calls require a balance of at least 10 credits. A successful no-cost operation does not deduct credits.
 
 ## Build packages
 
