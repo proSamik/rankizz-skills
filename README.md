@@ -11,12 +11,18 @@ Each skill is an independent folder with a public `SKILL.md`. Some workflows can
 | `rankizz-setup-seo-project` | Create reusable SEO project context | No |
 | `rankizz-audit-site-cloud` | Run a hosted Rankizz site audit | Yes |
 | `rankizz-audit-site-local` | Audit with the agent's local resources | No |
+| `rankizz-audit-on-page-seo` | Check the complete on-page SEO implementation | No |
 | `rankizz-research-keywords` | Find and prioritize keyword opportunities | Optional |
 | `rankizz-cluster-keywords` | Turn keyword lists into a page map | Optional |
 | `rankizz-map-competitive-landscape` | Map the domains winning a search market | Optional |
 | `rankizz-analyze-competitor` | Analyze one competitor's organic footprint | Optional |
 | `rankizz-prospect-links` | Find and qualify relevant link prospects | Optional |
 | `rankizz-build-seo-roadmap` | Build an evidence-based 1–30 day SEO roadmap | Yes |
+| `rankizz-write-human-blog-post` | Research and write a useful post in a natural voice | Optional |
+| `rankizz-write-tool-listicle` | Create an evidence-backed best-tools list | Optional |
+| `rankizz-write-alternatives-page` | Write a fair product alternatives page | Optional |
+| `rankizz-write-comparison-page` | Compare two products using the same evidence standard | Optional |
+| `rankizz-write-competitor-review-pricing` | Explain a competitor's product, fit, and current pricing | Optional |
 
 ## Install
 

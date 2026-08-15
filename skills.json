@@ -1,6 +1,6 @@
 {
   "name": "Rankizz Agent Skills",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "homepage": "https://www.rankizz.com/docs/skills",
   "mcpUrl": "https://www.rankizz.com/mcp",
   "skills": [
@@ -22,6 +22,13 @@
       "name": "rankizz-audit-site-local",
       "title": "Local Site Audit",
       "description": "Audit a public website with local agent and system resources.",
+      "mode": "local",
+      "rankizzRequired": false
+    },
+    {
+      "name": "rankizz-audit-on-page-seo",
+      "title": "On-Page SEO Audit",
+      "description": "Check metadata, canonicals, headings, images, hreflang, structured data, links, and indexability.",
       "mode": "local",
       "rankizzRequired": false
     },
@@ -66,6 +73,41 @@
       "description": "Build an authority- and traffic-aware SEO plan for the next 1–30 days.",
       "mode": "cloud",
       "rankizzRequired": true
+    },
+    {
+      "name": "rankizz-write-human-blog-post",
+      "title": "Human Blog Writing",
+      "description": "Research and write useful, source-backed blog posts in a natural human voice.",
+      "mode": "hybrid",
+      "rankizzRequired": false
+    },
+    {
+      "name": "rankizz-write-tool-listicle",
+      "title": "Tool Listicle Writing",
+      "description": "Build a fair best-tools list with current pricing, clear criteria, and meaningful tradeoffs.",
+      "mode": "hybrid",
+      "rankizzRequired": false
+    },
+    {
+      "name": "rankizz-write-alternatives-page",
+      "title": "Alternatives Page Writing",
+      "description": "Write a fair alternatives page with verified switching reasons, pricing, and audience fit.",
+      "mode": "hybrid",
+      "rankizzRequired": false
+    },
+    {
+      "name": "rankizz-write-comparison-page",
+      "title": "Comparison Page Writing",
+      "description": "Compare two products with normalized pricing, verified capabilities, and segmented verdicts.",
+      "mode": "hybrid",
+      "rankizzRequired": false
+    },
+    {
+      "name": "rankizz-write-competitor-review-pricing",
+      "title": "Competitor Review and Pricing",
+      "description": "Research a competitor's product and current pricing for an honest buyer-focused page.",
+      "mode": "hybrid",
+      "rankizzRequired": false
     }
   ]
 }
