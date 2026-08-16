@@ -7,7 +7,7 @@ description: Write concise, personalized backlink outreach emails for an editori
 
 Give the recipient a defensible editorial reason to respond. Do not dress a ranking transaction up as reader value.
 
-Read [references/backlink-outreach-templates.md](references/backlink-outreach-templates.md) for the selected outreach type before drafting.
+Read [references/backlink-outreach-policy.md](references/backlink-outreach-policy.md) before drafting. The three copy-ready templates requested for this workflow are included below so they remain visible on the public skill page.
 
 ## Gather the evidence
 
@@ -148,6 +148,114 @@ Bad:
 - `Please add the link and confirm when it is live.`
 - `Thoughts?`
 - `Reply ASAP to secure this opportunity.`
+
+## Copy-ready templates
+
+Replace every bracketed field with verified information for one prospect. Delete any sentence that does not apply. Do not send these as mail-merge copy.
+
+### Template 1: outdated listicle or better replacement
+
+Use this when an existing entry is outdated, incorrect, broken, or a poor fit for a specific reader. If the current item is still valid, pitch the app as an additional option rather than pretending it needs replacement.
+
+Subject options:
+
+```text
+Update for your [topic] list
+[Page title]: [specific correction]
+Another option for [reader type]
+```
+
+Full email:
+
+```text
+Hi [name],
+
+I was checking your [page title] and noticed [exact outdated, incorrect, broken, or missing point] in the section about [item or category]. [Brief source or checked fact] shows [specific correction].
+
+I [built/work on] [app] ([destination URL]), which helps [specific user] [verified function]. It may be a better fit for [exact reader or use case] because [one defensible difference]. I can send a two-sentence entry, current pricing, and [screenshot/data/source] so you can compare it with the existing options.
+
+Would that material help with your next update?
+
+[real name]
+[role and company]
+[required postal address, privacy notice, and opt-out]
+```
+
+CTA:
+
+```text
+Would that material help with your next update?
+```
+
+### Template 2: paid guest post or sponsorship
+
+Use this only for a disclosed paid contribution. The user must supply the real budget or ask for the publisher's rates. Accept `rel="sponsored"` or `rel="nofollow"`; payment must not buy a followed link, false claim, or positive review.
+
+Subject options:
+
+```text
+Sponsored article for [topic]
+Sponsorship rates for [page or section]
+Paid contribution for [audience]
+```
+
+Full email:
+
+```text
+Hi [name],
+
+I saw that [site] [accepts sponsored contributions/covers specific topic]. I am looking at a disclosed paid article about [specific reader problem or proposed title] for [audience].
+
+I [built/work on] [app], which [verified function] for [specific user]. We can provide [original draft/data/screenshots/product access], and the article would cover [two or three concrete sections] under your editorial review.
+
+Our budget is [amount and currency/range]. We are comfortable with clear sponsorship disclosure and rel="sponsored" or rel="nofollow".
+
+Could you send your rates, editorial requirements, and available placement options?
+
+[real name]
+[role and company]
+[required postal address, privacy notice, and opt-out]
+```
+
+CTA:
+
+```text
+Could you send your rates, editorial requirements, and available placement options?
+```
+
+### Template 3: relevant backlink exchange
+
+Use this only when each link independently improves its own page. Do not use it for scaled reciprocal-link campaigns, exact-match anchor trades, or partner pages created only for cross-linking.
+
+Subject options:
+
+```text
+Resource fit for [shared topic]
+Two useful resources for [audience]
+[Target page] resource suggestion
+```
+
+Full email:
+
+```text
+Hi [name],
+
+Your [target page URL or title] explains [specific point]. I [built/work on] [app] ([app URL]), which helps [specific audience] [verified function]. Our [resource page URL] adds [specific evidence, tool, example, or workflow] that could help readers in the section about [exact location].
+
+We also maintain [sender page URL], where your [recipient resource URL] would help our readers with [distinct need]. [Optional: Our site has Moz DA [number] or Ahrefs DR [number], plus [traffic estimate and source], checked [date].]
+
+Would you be open to reviewing both resources independently? Either editor should skip a link that does not fit the page.
+
+[real name]
+[role and company]
+[required postal address, privacy notice, and opt-out]
+```
+
+CTA:
+
+```text
+Would you be open to reviewing both resources independently?
+```
 
 ## Personalize without pretending
 
