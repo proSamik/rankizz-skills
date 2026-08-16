@@ -55,7 +55,7 @@ def main() -> None:
         ) as archive:
             for source in sorted(skill_dir.rglob("*")):
                 if source.is_file():
-                    archive.write(source, source.relative_to(SKILLS_DIR))
+                    archive.write(source, source.relative_to(skill_dir))
         print(f"built {archive_path.relative_to(ROOT)}")
 
 

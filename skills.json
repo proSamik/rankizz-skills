@@ -1,9 +1,16 @@
 {
   "name": "Rankizz Agent Skills",
-  "version": "0.5.1",
+  "version": "0.6.0",
   "homepage": "https://www.rankizz.com/docs/skills",
   "mcpUrl": "https://www.rankizz.com/mcp",
   "skills": [
+    {
+      "name": "rankizz-seo-skills",
+      "title": "Rankizz SEO Skills",
+      "description": "Set up an SEO project, install the right Rankizz specialist skills, and configure local, MCP, or REST workflows.",
+      "creditUsage": "optional",
+      "rankizzRequired": false
+    },
     {
       "name": "rankizz-setup-seo-project",
       "title": "SEO Project Setup",

@@ -8,6 +8,7 @@ Each skill is an independent folder with a public `SKILL.md`. Some workflows can
 
 | Skill | Purpose | Credit usage |
 | --- | --- | --- |
+| `rankizz-seo-skills` | Set up Rankizz and install the right specialist skills for the task | Optional |
 | `rankizz-setup-seo-project` | Create reusable SEO project context | Optional |
 | `rankizz-audit-site-cloud` | Run a hosted Rankizz site audit | Required |
 | `rankizz-audit-site-local` | Audit with the agent's local resources | None |
@@ -37,7 +38,7 @@ For Codex, copy a skill folder into `~/.agents/skills/` for personal use or `.ag
 
 For Claude Code, copy a skill folder into `~/.claude/skills/` for personal use or `.claude/skills/` inside a project.
 
-For Claude.ai or another upload-based client, upload the ZIP for the selected skill.
+For Claude.ai, ChatGPT, Perplexity Computer, or another upload-based client, upload the ZIP for the selected skill. Each ZIP keeps `SKILL.md` at the archive root as required by upload-based clients.
 
 ## Rankizz access
 
